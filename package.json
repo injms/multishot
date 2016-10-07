@@ -1,0 +1,21 @@
+{
+  "name": "bulk-webshots",
+  "version": "0.9.0",
+  "description": "Takes a list of URLs, saves screenshots of them",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "httpdispatcher": "^1.0.0",
+    "imagemagick": "^0.1.3",
+    "webshot": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "webshot"
+  ],
+  "author": "Ian James, ijames@wwf.org.uk",
+  "license": "UNLICENSED"
+}
